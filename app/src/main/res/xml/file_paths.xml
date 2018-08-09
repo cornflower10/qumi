@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- aar用到的-->
+    <!--<root-path name="root" path="" />-->
+    <!--<external-path name="external_storage_root" path="." />-->
+    <external-path name="51qumi" path="51qumi" />
+    <files-path  name="downloads" path="downloads"/>
+    <!--项目中用到的-->
+</paths>
